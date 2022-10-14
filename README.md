@@ -28,3 +28,7 @@ Configurar identificación del desarrollador:
 
 
  $git status
+ 
+ El resto de la cachaña:
+ 
+ 
